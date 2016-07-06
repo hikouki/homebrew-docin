@@ -5,7 +5,7 @@ class Docin < Formula
   version "1.0.0"
   desc "Go into a docker container by fzf interface."
   url "https://github.com/hikouki/docin/archive/v#{version}.tar.gz"
-  sha256 "1ed13ea38198dc7e3b1399acbf97bc5e22db9df26fb2b8d4fda826b158e3e7f0"
+  sha256 "5b6ee3593242c8b8866933b2f395aabc34622d744b1bdbb652759fd643ddf0c8"
   head "https://github.com/hikouki/docin.git"
 
   def install
