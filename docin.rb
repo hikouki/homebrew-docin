@@ -1,6 +1,6 @@
 require "formula"
 
-class Chikubeam < Formula
+class Docin < Formula
   homepage "https://github.com/hikouki/docin"
   version "1.0.0"
   dec "Go into a docker container by fzf interface."
